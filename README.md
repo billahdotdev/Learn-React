@@ -1,2 +1,2 @@
-# Whatt is React?
+# What is React?
  
