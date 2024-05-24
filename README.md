@@ -10,7 +10,8 @@ React.js, or simply React, is a popular open-source JavaScript library developed
    > 
    > &bull; Functional Components: A simpler way to create components using functions. They can use hooks to manage state and lifecycle methods.
 
-2. JSX: JSX (JavaScript XML) is a syntax extension that allows you to write HTML-like code in your JavaScript files. React components typically use JSX to describe what the UI should look like.
+2. JSX: JSX (JavaScript XML) is a syntax extension that allows you to write HTML-like code in your JavaScript files.
+   React components typically use JSX to describe what the UI should look like.
 
 
 # Before React
