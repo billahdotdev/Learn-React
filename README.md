@@ -17,6 +17,9 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 
 4. State: State is used to manage data that changes over time within a component. Unlike props, state is managed within the component and can be updated using the setState method (in class components) or the useState hook (in functional components).
 
+5. Lifecycle Methods: Lifecycle methods are special methods in class components that allow you to run code at specific points in a component's lifecycle (e.g., componentDidMount, componentDidUpdate, componentWillUnmount).
+
+6. 
 # Before React
 >&bull; Solid Foundation: Before diving into React, ensure you have a good grasp of HTML, CSS, and JavaScript (including ES6 features).
 >
