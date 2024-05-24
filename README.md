@@ -15,6 +15,7 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 
 3. Props: Props (short for properties) are used to pass data from parent components to child components. They are read-only and cannot be modified by the receiving component.
 
+4. State: State is used to manage data that changes over time within a component. Unlike props, state is managed within the component and can be updated using the setState method (in class components) or the useState hook (in functional components).
 
 # Before React
 >&bull; Solid Foundation: Before diving into React, ensure you have a good grasp of HTML, CSS, and JavaScript (including ES6 features).
