@@ -13,6 +13,8 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 2. JSX: JSX (JavaScript XML) is a syntax extension that allows you to write HTML-like code in your JavaScript files.
    React components typically use JSX to describe what the UI should look like.
 
+3. Props: Props (short for properties) are used to pass data from parent components to child components. They are read-only and cannot be modified by the receiving component.
+
 
 # Before React
 >&bull; Solid Foundation: Before diving into React, ensure you have a good grasp of HTML, CSS, and JavaScript (including ES6 features).
