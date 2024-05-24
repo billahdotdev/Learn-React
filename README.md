@@ -4,6 +4,8 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 
 # Core Concepts of React
 
+1. Components: Components are the building blocks of a React application. They can be either class-based or function-based (functional components).
+
 
 # Before React
 >&bull; Solid Foundation: Before diving into React, ensure you have a good grasp of HTML, CSS, and JavaScript (including ES6 features).
