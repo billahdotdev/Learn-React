@@ -6,9 +6,9 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 
 1. Components: Components are the building blocks of a React application. They can be either class-based or function-based (functional components).
 
-   > &bull; Class Components: Traditional way of creating components using ES6 classes.
+   > &bull; Class Components: The traditional way of creating components is using ES6 classes.
    > 
-   > &bull; Functional Components: Simpler way to create components using functions. They can use hooks to manage state and lifecycle methods.
+   > &bull; Functional Components: A simpler way to create components using functions. They can use hooks to manage state and lifecycle methods.
 
 
 # Before React
