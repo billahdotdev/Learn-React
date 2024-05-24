@@ -19,7 +19,9 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 
 5. Lifecycle Methods: Lifecycle methods are special methods in class components that allow you to run code at specific points in a component's lifecycle (e.g., componentDidMount, componentDidUpdate, componentWillUnmount).
 
-6. 
+6. Hooks: Hooks are functions that let you use state and other React features in functional components. The most commonly used hooks are useState and useEffect.
+
+
 # Before React
 >&bull; Solid Foundation: Before diving into React, ensure you have a good grasp of HTML, CSS, and JavaScript (including ES6 features).
 >
