@@ -23,6 +23,7 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 
 # Before React
 >&bull; Solid Foundation: Before diving into React, ensure you have a good grasp of HTML, CSS, and JavaScript (including ES6 features).
+>
 # Setting Up a React Project
 
 
