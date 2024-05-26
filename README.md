@@ -27,10 +27,6 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 
 # Before React
 >&bull; Solid Foundation: Before diving into React, ensure you have a good grasp of HTML, CSS, and JavaScript (including ES6 features).
->
->&bull; Practice Consistently: The best way to learn React is to build small projects and experiment with different functionalities.
->
->&bull; Explore the Community: There's a vast React community online with forums, tutorials, and resources to help you along the way.
 
 
 
