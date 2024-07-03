@@ -24,7 +24,8 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 7. Hooks: Hooks are functions that let you use state and other React features in functional components. The most commonly used hooks are useState and useEffect.
 
 # Before React
-JavaScript Fundamentals:
+
+### JavaScript Fundamentals:
 
 • Variables, Data Types, and Operators: Understand how to store and manipulate data using variables, different data types (numbers, strings, booleans, etc.), and operators (+, -, *, /, etc.).
 
@@ -36,7 +37,7 @@ JavaScript Fundamentals:
 
 • DOM Manipulation: Get comfortable with how JavaScript can interact with the Document Object Model (DOM) to change the content and structure of your web pages.
 
-Modern JavaScript (ES6+):
+#### Modern JavaScript (ES6+):
 
 • Be familiar with the features introduced in ECMAScript 2015 (ES6) and later versions. This includes concepts like arrow functions, classes, template literals, and promises, which are commonly used in React development.
 
