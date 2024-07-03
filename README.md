@@ -41,7 +41,9 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 
 • Be familiar with the features introduced in ECMAScript 2015 (ES6) and later versions. This includes concepts like arrow functions, classes, template literals, and promises, which are commonly used in React development.
 
-
+### Optional but Helpful:
+• HTML and CSS: While not strictly required, having a basic understanding of HTML and CSS will be beneficial as React builds user interfaces and utilizes JSX (a syntax extension for JavaScript that resembles HTML).
+Here are some resources to get you started:
 
 
 # Setting Up a React Project
