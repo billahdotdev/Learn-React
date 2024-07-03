@@ -36,6 +36,9 @@ JavaScript Fundamentals:
 
 • DOM Manipulation: Get comfortable with how JavaScript can interact with the Document Object Model (DOM) to change the content and structure of your web pages.
 
+Modern JavaScript (ES6+):
+• Be familiar with the features introduced in ECMAScript 2015 (ES6) and later versions. This includes concepts like arrow functions, classes, template literals, and promises, which are commonly used in React development.
+
 
 
 
