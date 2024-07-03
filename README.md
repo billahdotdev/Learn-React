@@ -9,7 +9,6 @@ React.js, or simply React, is a popular open-source JavaScript library developed
    They can be either class-based or function-based (functional components).
 
    &bull; Class Components: The traditional way of creating components is using ES6 classes.
- 
    &bull; Functional Components: A simpler way to create components using functions. They can use hooks to manage state and lifecycle methods.
 
 3. JSX: JSX (JavaScript XML) is a syntax extension that allows you to write HTML-like code in your JavaScript files.
