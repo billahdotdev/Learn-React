@@ -44,7 +44,7 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 ### Optional but Helpful:
 • HTML and CSS: While not strictly required, having a basic understanding of HTML and CSS will be beneficial as React builds user interfaces and utilizes JSX (a syntax extension for JavaScript that resembles HTML).
 
-Here are some resources to get you started:
+Here are some resources to get you started (BE CAREFUL ABOUT TUTORIAL HELL):
 1. [freecodecamp](https://www.freecodecamp.org/)
 2. [MDN](https://developer.mozilla.org/en-US/curriculum/)
 
