@@ -46,6 +46,7 @@ React.js, or simply React, is a popular open-source JavaScript library developed
 
 Here are some resources to get you started:
 1. [freecodecamp](https://www.freecodecamp.org/)
+2. [MDN](https://developer.mozilla.org/en-US/curriculum/)
 
 
 # Setting Up a React Project
