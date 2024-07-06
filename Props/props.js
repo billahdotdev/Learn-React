@@ -19,3 +19,49 @@ function ParentComponent() {
 function ChildComponent(props) {
   return <p>Name: {props.name}, Age: {props.age}</p>;
 }
+
+
+/*Destructuring Props
+Using Destructuring: Alternatively, 
+you can destructure props directly in the function signature for cleaner code.
+*/
+
+// ChildComponent.jsx
+
+function ChildComponent({ name, age }) {
+  return <p>Name: {name}, Age: {age}</p>;
+}
+
+//Immutability of Props
+
+/*Immutable: Props are immutable, 
+which means they cannot be changed by the child component. 
+They are read-only.*/
+
+//Types
+
+/* 
+Props can be any type of data 
+- strings, numbers, arrays, objects, functions, etc.
+*/
+
+
+
+//Default Props
+
+/*
+You can also define default values for props in case 
+they are not passed from the parent component.
+*/ 
+
+function ChildComponent({ name = 'Default Name', age = 0 }) {
+  return <p>Name: {name}, Age: {age}</p>;
+}
+
+
+/*
+In essence, props are essential for 
+passing data between React components, 
+enabling them to be dynamic and reusable. 
+They form a fundamental part of React's component architecture.
+*/
