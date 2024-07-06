@@ -1,6 +1,5 @@
-//Props are a way to pass data from one component to another in React.
-
-/*You can pass props from a parent component to a child component by 
+/*Props are a way to pass data from one component to another in React.
+You can pass props from a parent component to a child component by 
 adding attributes to the child component's JSX tag.*/
 
 // ParentComponent.jsx
