@@ -1,4 +1,4 @@
-//Destructuring Props
+// Destructuring Props
 
 /*Alternatively,
 you can destructure props directly in the function signature for cleaner code.
