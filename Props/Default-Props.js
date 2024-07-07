@@ -1,4 +1,4 @@
-//Default Props
+// Default Props
 
 /*
 You can also define default values for props in case
