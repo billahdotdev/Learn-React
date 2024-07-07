@@ -1,4 +1,4 @@
-//Types of Props
+// Types of Props
 
 /*
 Props can be any type of data
