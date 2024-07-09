@@ -63,6 +63,8 @@ You can verify this by running node -v and npm -v (or yarn -v) in your terminal.
 1. Create a new Vite project:
 
 Open your terminal and navigate to the directory where you want to create your project. Then, run the following command:
+         // You can use any name 
+         npm create vite@latest my-react-app
 
 3. Navigate to the project directory:
 
