@@ -53,6 +53,8 @@ Here are some resources to get you started (BE CAREFUL ABOUT TUTORIAL HELL):
 
 ## Prerequisites:
 
+Node.js and npm (or yarn) installed on your system. You can verify this by running node -v and npm -v (or yarn -v) in your terminal. If you don't have them, download and install them from the official [Node.js website](https://nodejs.org/en).
+
 ### Steps:
 
 1. Create a new Vite project:
