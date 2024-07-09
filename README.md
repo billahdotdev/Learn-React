@@ -59,7 +59,9 @@ Here are some resources to get you started (BE CAREFUL ABOUT TUTORIAL HELL):
 
 2. Navigate to the project directory:
 
-3. 
+3. Install dependencies:
+
+4. 
 
 
 
