@@ -57,6 +57,10 @@ Here are some resources to get you started (BE CAREFUL ABOUT TUTORIAL HELL):
 
 1. Create a new Vite project:
 
+2. Navigate to the project directory:
+
+3. 
+
 
 
 
