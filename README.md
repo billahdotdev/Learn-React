@@ -62,13 +62,15 @@ You can verify this by running node -v and npm -v (or yarn -v) in your terminal.
 
 1. Create a new Vite project:
 
-2. Navigate to the project directory:
+Open your terminal and navigate to the directory where you want to create your project. Then, run the following command:
 
-3. Install dependencies:
+3. Navigate to the project directory:
 
-4. Start the development server:
+4. Install dependencies:
 
-5. Start coding:  
+5. Start the development server:
+
+6. Start coding:  
 
 
 
