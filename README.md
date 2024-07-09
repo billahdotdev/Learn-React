@@ -51,7 +51,12 @@ Here are some resources to get you started (BE CAREFUL ABOUT TUTORIAL HELL):
 
 # Setting Up a React Project
 
-### Prerequisites:
+## Prerequisites:
+
+### Steps:
+
+1. Create a new Vite project:
+
 
 
 
