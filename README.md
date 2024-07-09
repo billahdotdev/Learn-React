@@ -51,6 +51,10 @@ Here are some resources to get you started (BE CAREFUL ABOUT TUTORIAL HELL):
 
 # Setting Up a React Project
 
+### Prerequisites:
+
+
+
 
 
 
