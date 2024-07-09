@@ -63,7 +63,7 @@ Here are some resources to get you started (BE CAREFUL ABOUT TUTORIAL HELL):
 
 4. Start the development server:
 
-5. 
+5. Start coding:
 
 
 
