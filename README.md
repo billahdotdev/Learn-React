@@ -61,7 +61,9 @@ Here are some resources to get you started (BE CAREFUL ABOUT TUTORIAL HELL):
 
 3. Install dependencies:
 
-4. 
+4. Start the development server:
+
+5. 
 
 
 
