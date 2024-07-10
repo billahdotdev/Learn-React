@@ -87,7 +87,7 @@ Run the following command to install all the dependencies listed in your project
 
 (You can use yarn install if you prefer yarn as your package manager)
 
-5. Start the development server:
+4. Start the development server:
 
 6. Start coding:  
 
