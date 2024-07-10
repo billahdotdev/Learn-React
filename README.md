@@ -72,6 +72,11 @@ Replace my-react-app with your desired project name. This command will use the n
 
 Once the project is created, navigate to the project directory using the cd command:
 
+
+            cd my-react-app
+
+or your cd "Your project name".
+
          
 
 4. Install dependencies:
