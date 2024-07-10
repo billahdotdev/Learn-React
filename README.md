@@ -83,6 +83,8 @@ or your cd "Your project name".
 
 Run the following command to install all the dependencies listed in your project's package.json file:
 
+      npm install
+
 5. Start the development server:
 
 6. Start coding:  
