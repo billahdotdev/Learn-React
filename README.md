@@ -81,6 +81,8 @@ or your cd "Your project name".
 
 3. Install dependencies:
 
+Run the following command to install all the dependencies listed in your project's package.json file:
+
 5. Start the development server:
 
 6. Start coding:  
