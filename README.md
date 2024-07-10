@@ -79,7 +79,7 @@ or your cd "Your project name".
 
          
 
-3. Install dependencies:
+### 3. Install dependencies:
 
 Run the following command to install all the dependencies listed in your project's package.json file:
 
@@ -87,7 +87,7 @@ Run the following command to install all the dependencies listed in your project
 
 (You can use yarn install if you prefer yarn as your package manager)
 
-4. Start the development server:
+### 4. Start the development server:
 
 Vite provides a development server for hot module replacement (HMR), which allows you to see changes in your code reflected in the browser almost instantly. Run the following command to start the development server:
 
@@ -99,7 +99,7 @@ This will typically start the server on http://localhost:5173/ (the port number 
 
 
 
-5. Start coding:
+### 5. Start coding:
 
    The default Vite project structure includes basic React components like App.jsx. You can start editing these files and see the changes reflected in the browser instantly due to HMR.
 
