@@ -79,7 +79,7 @@ or your cd "Your project name".
 
          
 
-4. Install dependencies:
+3. Install dependencies:
 
 5. Start the development server:
 
