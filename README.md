@@ -117,7 +117,11 @@ This will typically start the server on http://localhost:5173/ (the port number 
 
 Start building your application's UI by creating reusable React components. These components will represent different sections of your user interface. You can use the provided App.jsx as a starting point and break it down into smaller components.
 State management: As your application grows, you might need to manage data and state between components. Consider using a state management library like Redux or Zustand to handle complex application state.
-Data fetching: If your application needs to fetch data from an API, you can use libraries like Axios or the built-in fetch API to make requests and update your components with the retrieved data.
+
+
+### Data fetching: 
+
+If your application needs to fetch data from an API, you can use libraries like Axios or the built-in fetch API to make requests and update your components with the retrieved data.
 Styling your application:
 
 ### CSS-in-JS libraries: 
