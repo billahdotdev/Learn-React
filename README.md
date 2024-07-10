@@ -99,7 +99,9 @@ This will typically start the server on http://localhost:5173/ (the port number 
 
 
 
-5. Start coding:  
+5. Start coding:
+
+   The default Vite project structure includes basic React components like App.jsx. You can start editing these files and see the changes reflected in the browser instantly due to HMR.
 
 
 
