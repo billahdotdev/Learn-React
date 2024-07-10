@@ -78,7 +78,7 @@ Once the project is created, navigate to the project directory using the cd comm
 
 or your cd "Your project name".
 
-         
+ <br />        
 
 ### 3. Install dependencies:
 
@@ -87,6 +87,8 @@ Run the following command to install all the dependencies listed in your project
       npm install
 
 (You can use yarn install if you prefer yarn as your package manager)
+
+<br />
 
 ### 4. Start the development server:
 
@@ -98,7 +100,7 @@ Vite provides a development server for hot module replacement (HMR), which allow
 This will typically start the server on http://localhost:5173/ (the port number might vary). Open this URL in your browser to see your React application running.
 
 
-
+<br />
 
 ### 5. Start coding:
 
