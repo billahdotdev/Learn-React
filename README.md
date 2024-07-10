@@ -94,6 +94,8 @@ Vite provides a development server for hot module replacement (HMR), which allow
 
             npm run dev
 
+This will typically start the server on http://localhost:5173/ (the port number might vary). Open this URL in your browser to see your React application running.
+
 
 
 
