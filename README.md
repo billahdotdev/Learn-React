@@ -61,15 +61,14 @@ You can verify this by running node -v and npm -v (or yarn -v) in your terminal.
 ### Steps:
 
 1. Create a new Vite project:
-
 Open your terminal and navigate to the directory where you want to create your project. Then, run the following command:
 
          npm create vite@latest my-react-app
          
 Replace my-react-app with your desired project name. This command will use the npm create vite shortcut to create a new Vite project with React template.
 
-2. Navigate to the project directory:
 
+2. Navigate to the project directory:
 Once the project is created, navigate to the project directory using the cd command:
 
 
