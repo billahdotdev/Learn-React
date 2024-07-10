@@ -70,6 +70,10 @@ Replace my-react-app with your desired project name. This command will use the n
 
 2. Navigate to the project directory:
 
+Once the project is created, navigate to the project directory using the cd command:
+
+         
+
 4. Install dependencies:
 
 5. Start the development server:
