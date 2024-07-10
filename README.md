@@ -139,7 +139,12 @@ Advanced topics:
 ### TypeScript integration: 
 
 If you prefer static typing for better code maintainability, you can integrate TypeScript with your Vite project. The create-vite-app command offers templates with TypeScript support.
-Customizing Vite configuration: The Vite configuration file (vite.config.js) allows you to customize various aspects of the build process, including plugin configuration and build options. Refer to the official Vite documentation for details on advanced configuration options.
+
+
+### Customizing Vite configuration: 
+
+The Vite configuration file (vite.config.js) allows you to customize various aspects of the build process, including plugin configuration and build options. Refer to the official Vite documentation for details on advanced configuration options.
+
 These are just some suggestions to get you started. The next steps will depend on your specific project requirements and desired functionalities. Don't hesitate to consult the official Vite documentation and explore online tutorials for further guidance on building your React application with Vite.
 
 
