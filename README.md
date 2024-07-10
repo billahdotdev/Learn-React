@@ -99,7 +99,7 @@ This will typically start the server on http://localhost:5173/ (the port number 
 
 
 
-6. Start coding:  
+5. Start coding:  
 
 
 
