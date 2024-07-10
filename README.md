@@ -89,6 +89,11 @@ Run the following command to install all the dependencies listed in your project
 
 4. Start the development server:
 
+Vite provides a development server for hot module replacement (HMR), which allows you to see changes in your code reflected in the browser almost instantly. Run the following command to start the development server:
+
+
+
+
 6. Start coding:  
 
 
