@@ -2,7 +2,7 @@
 
 React.js, or simply React, is a popular open-source JavaScript library developed by Facebook for building dynamic and interactive user interfaces (UIs). It simplifies UI development by allowing developers to create reusable components that efficiently update and render as data changes. 
 
-# Core Concepts        
+# Core Concepts         
 
 1. Components: These are the building blocks of your React application. Imagine them like Lego bricks for your web page.
    Each component can represent a small, reusable part of the UI, like a button, a menu, or a form.
